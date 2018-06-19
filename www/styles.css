@@ -1,0 +1,16 @@
+.skin-blue .main-header .logo {
+  background-color: #3c8dbc;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+  font-weight: 800;
+  width: 100%;
+}
+
+.skin-blue .main-header .navbar {
+  background-color: #3c8dbc;
+    width: 0%;
+}
+
+.grupo {
+  margin: 10px 0 10px;
+}
