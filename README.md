@@ -5,5 +5,5 @@ http://apps.adelmofilho.com/shiny/3LBirds/
 
 
 <p align="center">
-  <img width="860" height="450" src="https://i.imgur.com/UwONiyR.png">
+  <img width="860" height="400" src="https://i.imgur.com/UwONiyR.png">
 </p>
