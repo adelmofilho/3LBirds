@@ -156,10 +156,12 @@ server <- function(input, output) {
 
 observeEvent(input$search, {
   
-    consumer_key <- "1Bid7kzybKDxpuNxsnkPMpiGk"
-    consumer_secret <- "B6hXiS5DiguAtZwIanYGBzPnVVWss9xzDkuOghW2lqQxBc5xSh"
-    access_token <- "998404470106095616-IcqcwPQe8ACOezO776z5oiEEWBZR8WX"
-    access_secret <- "bAh5TqS8Ds7k4IztIb5l3Hoa48380T2QuTSrq5hMN1kuj"
+    # Crie um API em https://apps.twitter.com e adicione as chaves abaixo
+  
+    consumer_key <- ""
+    consumer_secret <- ""
+    access_token <- ""
+    access_secret <- ""
     
     setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
     token <- get("oauth_token", twitteR:::oauth_cache)
