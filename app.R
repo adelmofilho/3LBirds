@@ -12,6 +12,8 @@ library(syuzhet)
 library(promises)
 library(tibble)
 library(future)
+library(openssl)
+library(httpuv)
 
 plan(multiprocess)
 
